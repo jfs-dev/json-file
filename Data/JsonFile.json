@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "9ce12341-59a0-499b-b5bf-2ad2ad6ec7cb",
+    "Name": "Peter Parker",
+    "Email": "peter.parker@marvel.com"
+  },
+  {
+    "Id": "1871d467-2e2d-42e0-9f9d-893ae4dd5826",
+    "Name": "Ben Parker",
+    "Email": "ben.parker@marvel.com"
+  },
+  {
+    "Id": "017ae9fb-3803-4105-a266-1fe41e7f159b",
+    "Name": "Mary Jane",
+    "Email": "mary.jane@marvel.com"
+  }
+]
